@@ -107,7 +107,7 @@
 }
 
 .happy-client{
-    height: 500px;
+    height: 650px;
     background-color: #fbece5;
     
 }
@@ -115,4 +115,16 @@
     color:#ad7461;
     font-weight:bolder;
     font-size: 35px;
+}
+
+.happy-client-img{
+    height:410px;
+    width: 380px;
+   
+}
+
+.happy-container{
+    width:770px;
+    height:420px;
+    background-color: rgb(194 162 146);
 }
