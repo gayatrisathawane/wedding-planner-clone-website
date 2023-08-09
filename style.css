@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbarmain{
+    background-color: beige;
+    height: 500px;
+}
+.logo{
+    height: 90px;
+    margin-left: 100px;
+  
+}
+.main-wedding{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+.ring{
+    height: 100px;
+}
+.wedding-img{
+    width: 45%;
+}
+.border-bottom1{
+    border-bottom: 4px solid #ad7461;
+    width: 150px;
+  padding-top: 20px;
+  margin-left: 10px;
+}
+.wed-img{
+    display: flex;
+}
+.wed{
+    height: 250px;
+}
+.images{
+    display: flex;
+}
+.btnevent{
+    background: #ad7461;
+    border: none;
+    width: 150px;
+}
+.div3{
+    background: #fbece5;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+
+}
+.eventword{
+    color: #ad7461;
+}
+.div3text{
+    text-align: justify;
+    width:350px;
+    margin-top: 30px;
+
+}
+.div3card{
+    width: 600px;
+}
+
+.subcarddiv3{
+    display: flex;
+    justify-content: space-evenly;
+     margin-top: 30px;
+    
+}
+.subcarddiv{
+
+    display: flex;
+    justify-content: space-evenly;
+     
+
+}
+.carddiv{
+     margin-top: 40px;
+    background-color: white;
+    width: 330px;
+    height: 200px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgb(219, 217, 217); 
+
+}
+.corporatediv{
+    display: flex;
+    height:600px;
+    /* background-color: rgb(62, 219, 219); */
+}
+.cardscorporate1{
+    width: 350px;
+    margin-left: 90px;
+   
+   
+}
+.cardscorporateimg{
+    width: 600px;
+}
+.cor-img{
+    width:340px;
+}
+.corporate-text{
+    text-align: justify;
+}
+
+.happy-client{
+    height: 500px;
+    background-color: #fbece5;
+    
+}
+.happyheading{
+    color:#ad7461;
+    font-weight:bolder;
+    font-size: 35px;
+}
