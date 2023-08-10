@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    height: 90px;
+    margin-left: 100px;
+  
+}
+.weddingmaindiv{
+    height: 260px;
+    background-color:  #f8e9e6;
+}
+.relative1{
+    position: relative;
+    bottom:120px;
+   
+    color:  #9a6553;
+}
+.imgs{
+    height: 340px;
+    width: 350px;
+    transition: 2s;
+}
+.imgs:hover{
+    transform: scale(0.9);
+}
+
+.color{
+    color:  #9a6553;
+
+}

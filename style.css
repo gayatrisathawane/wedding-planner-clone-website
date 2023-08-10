@@ -4,8 +4,30 @@
 }
 
 .navbarmain{
-    background-color: beige;
-    height: 500px;
+    /* background-image: url('./images/img/bg.jpg');;
+    background-size: cover;
+    background-repeat: no-repeat ;
+   */
+   background-color: #f8e9e6;
+  
+    /* height: 500px; */
+}
+.navtextimg{
+    background-image: url('./images/img/Baby-Shower_text.png');
+    height: 200px;
+    width: 250px;
+    background-color: #f8e9e6;
+    background-size: cover;
+    background-position: center center;
+
+}
+
+.navimg{
+    background-image: url('./images/img/cover1.png');
+    width: 400px;
+    height: 400px;
+    background-color: #f8e9e6;
+    background-size: cover;
 }
 .logo{
     height: 90px;
@@ -127,4 +149,13 @@
     width:770px;
     height:420px;
     background-color: rgb(194 162 146);
+}
+.container-div4{
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+  
+    align-items: center;
 }
