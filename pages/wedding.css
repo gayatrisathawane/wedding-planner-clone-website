@@ -20,10 +20,10 @@
 .imgs{
     height: 340px;
     width: 350px;
-    transition: 2s;
+    transition: 1s;
 }
 .imgs:hover{
-    transform: scale(0.9);
+    transform: scale(0.98)
 }
 
 .color{

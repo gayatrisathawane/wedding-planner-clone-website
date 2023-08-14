@@ -12,7 +12,7 @@
   
     /* height: 500px; */
 }
-.navtextimg{
+/* .navtextimg{
     background-image: url('./images/img/Baby-Shower_text.png');
     height: 200px;
     width: 250px;
@@ -20,19 +20,28 @@
     background-size: cover;
     background-position: center center;
 
-}
+} */
 
-.navimg{
+/* .navimg{
     background-image: url('./images/img/cover1.png');
     width: 400px;
     height: 400px;
     background-color: #f8e9e6;
     background-size: cover;
-}
+} */
 .logo{
-    height: 90px;
+    height: 60px;
     margin-left: 100px;
   
+}
+.scrollimg{
+    height: 600px;
+}
+.whatsapp{
+    position: fixed;
+    top:380px;
+    right: 20px;
+
 }
 .main-wedding{
     display: flex;
